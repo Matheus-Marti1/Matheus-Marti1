@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Matheus 👋</h1>
+<h1 align="center">Olá, me chamo Matheus 👋</h1>
 
 ## Sobre mim:
 💻 Desenvolvedor de software em formação  
