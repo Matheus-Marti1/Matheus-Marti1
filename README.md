@@ -20,9 +20,9 @@
 
 ## 📊 Estatísticas:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Marti1&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Marti1&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Marti1&layout=compact&langs_count=6&theme=radical"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Marti1&show_icons=true&theme=radical"/>
+  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Marti1&theme=radical"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Marti1&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 ## 📫 Como me encontrar:
