@@ -18,13 +18,6 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Estatísticas:
-<div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Marti1&show_icons=true&theme=radical"/>
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Marti1&theme=radical"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Marti1&layout=compact&langs_count=6&theme=radical"/>
-</div>
-
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINKEDIN)](https://www.linkedin.com/in/matheusmarti/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SEU_USUARIO)](https://github.com/Matheus-Marti1)
